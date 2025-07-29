@@ -41,7 +41,7 @@ export const projectsData = [
   {
     id: 4,
     avatar:
-      "https://images.prismic.io/noteplan-landing-cms/Zh4v_TjCgu4jz16l_cover_image.jpeg?auto=format,compress",
+      "https://img.freepik.com/premium-vector/notes-icon-logo-vector-design-template_827767-4990.jpg",
     name: "Note Taking App",
     date: "Feb 27, 2025",
     description:
@@ -53,8 +53,8 @@ export const projectsData = [
   },
   {
     id: 5,
-    avatar: "https://ritul-ui.github.io/Restuarant-Menu-Application/",
-    name: "Restaurant App",
+    avatar: "https://cdn4.vectorstock.com/i/1000x1000/65/58/restaurant-logo-design-idea-vector-46986558.jpg",
+    name: "Restaurant Menu App",
     date: "Dec 28, 2024",
     description:
       "This project is a where I have implemented the login, register, otpregister, ourmenu, product detail page usinh HTML, CSS, and JavaScript.",
