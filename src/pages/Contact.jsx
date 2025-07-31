@@ -70,6 +70,7 @@ const Contact = () => {
     const templateID = import.meta.env.VITE_APP_TEMPLATE_ID;
     const publicKey = import.meta.env.VITE_APP_PUBLIC_KEY;
 
+    
     const templateParams = {
       from_name: formData.firstName + " " + formData.lastName,
       from_email: formData.email,
