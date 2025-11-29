@@ -59,7 +59,7 @@ const About = () => {
               color: "#ccc",
             }}
           >
-            I’m <strong>Ritul Anand</strong>, a passionate Front End Developer with <strong>5.8 years of experience</strong> in building responsive and scalable web applications using <strong>React.js</strong>, <strong>Redux-toolkit</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Vanilla Javascript</strong>.
+            I’m <strong>Ritul Anand</strong>, a passionate Front End Developer with <strong>6.2 years of experience</strong> in building responsive and scalable web applications using <strong>React.js</strong>, <strong>Redux-toolkit</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>Vanilla Javascript</strong>.
             Also, aspiring to be a full stack developer, I have a keen interest in mastering <strong>Node.js</strong> and <strong>Express.js</strong> to create robust back-end solutions.
             I love transforming ideas into real-world solutions with elegant UIs, secure backends, and optimized performance. My goal is to create meaningful digital products and keep growing every day as a developer.
           </Typography>

@@ -8,7 +8,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import { motion } from "framer-motion";
 import profilePic from "../assets/profileimg.png";
-import resume from "../assets/Ritul_Anand_cn_resume.pdf";
+import resume from "../assets/Ritul_resume_cn.pdf";
 import axios from "axios";
 import { AccessAlarm } from "@mui/icons-material";
 

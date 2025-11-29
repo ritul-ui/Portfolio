@@ -2,6 +2,7 @@ import react from "./certificates/reactjs.png";
 import backend from "./certificates/nodejs .png";
 import frontend from "./certificates/frontendnew.png";
 import generativeai from "./certificates/generative ai.png";
+import database from "./certificates/database.png";
 
 const certificateData = [
   {
@@ -35,6 +36,14 @@ const certificateData = [
     src: generativeai,
     organization: "Coding Ninjas",
     link: "https://ninjasfiles.s3.amazonaws.com/certificate_d354d4f8c41cb47b_7278654957ae61da47287bb94806a440.pdf",
+  },
+  {
+    id: 5,
+    name: "Database Management System",
+    issue_date: "October 2025",
+    src: database,
+    organization: "Coding Ninjas",
+    link: "https://ninjasfiles.s3.amazonaws.com/certificate_cc22b909a758e81c_fb514d283b473f6c56894abd5f1ff18d.pdf",
   },
 ];
 
